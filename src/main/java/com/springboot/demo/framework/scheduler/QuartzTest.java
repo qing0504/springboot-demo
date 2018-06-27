@@ -1,4 +1,4 @@
-package com.spring.boot.framework.scheduler;
+package com.springboot.demo.framework.scheduler;
 
 import java.text.ParseException;
 import java.util.List;

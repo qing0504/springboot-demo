@@ -12,7 +12,7 @@
  * express or implied. See the License for the specific language governing
  * permissions and limitations under the License.
  */
-package com.spring.boot.framework.aws.s3;
+package com.springboot.demo.framework.aws.s3;
 
 import java.io.BufferedReader;
 import java.io.File;

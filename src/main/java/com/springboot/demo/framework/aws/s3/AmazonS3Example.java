@@ -1,4 +1,4 @@
-package com.spring.boot.framework.aws.s3;
+package com.springboot.demo.framework.aws.s3;
 
 import java.io.ByteArrayInputStream;
 import java.io.File;
